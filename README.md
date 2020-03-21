@@ -10,7 +10,7 @@ touch README.md
 # git isn't aware of the file, stage it
 git add README.md
 
-# take a smnapshot of the staging area
+# take a snapshot of the staging area
 git commit -m "add README to initial commit"
 
 # provide the path for the repository you created on github
